@@ -6,7 +6,8 @@ Power BI project on cryptocurrency data. Power BI is a powerful data visualizati
 
 Here's a step-by-step guide to creating a Power BI project on cryptocurrency data:
 
-#
+## Page - 1 
 <img src = "ccd-Page-1.png">
-#
+
+## Page - 2
 <img src = "ccd-Page-1.png">
