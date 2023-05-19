@@ -10,4 +10,4 @@ Here's a step-by-step guide to creating a Power BI project on cryptocurrency dat
 <img src = "ccd-Page-1.png">
 
 ## Page - 2
-<img src = "ccd-Page-1.png">
+<img src = "ccd-Page-2.png">
